@@ -1,6 +1,6 @@
 ### 👋 Hello, I'm Usman Jamil — Mobile Developer
 
-I craft high-quality mobile apps using both **native (Android/iOS)** and **cross-platform (Flutter & Kotlin Multiplatform)** technologies.
+I craft high-quality mobile apps using both **native (Android)** and **cross-platform (Kotlin Multiplatform)** technologies.
 
 🔧 I specialize in building scalable features from **UI to API**, following **Clean Architecture**, **MVVM**, and **modular design** principles.
 
