@@ -1,6 +1,6 @@
-### 👋 Hello, I'm Usman Jamil — Mobile Developer
+### 👋 Hello, I'm Usman Jamil — Android Engineer
 
-I craft high-quality mobile apps using both **native (Android)** and **cross-platform (Kotlin Multiplatform)** technologies.
+I craft high-quality mobile apps using **native (Android)** technologies.
 
 🔧 I specialize in building scalable features from **UI to API**, following **Clean Architecture**, **MVVM**, and **modular design** principles.
 
