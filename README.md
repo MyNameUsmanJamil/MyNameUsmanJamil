@@ -2,7 +2,7 @@
 
 # Welcome👋 I'm Usman Jamil
 
-Kotlin Mobile Developer | Crafting Elegant, Intuitive & High-Impact Android Applications
+**Kotlin Mobile Developer | Crafting Elegant, Intuitive & High-Impact Android Applications**
 
 🔧 I specialize in crafting high-quality mobile applications using **Android, iOS, Hybrid technologies** to deliver seamless user experiences.
 
