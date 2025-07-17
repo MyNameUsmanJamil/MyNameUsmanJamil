@@ -17,7 +17,6 @@ Kotlin Mobile Developer | Crafting Elegant, Intuitive & High-Impact Android Appl
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)
 
----
 
 ### 📱 UI Frameworks & SDKs  
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
@@ -27,7 +26,6 @@ Kotlin Mobile Developer | Crafting Elegant, Intuitive & High-Impact Android Appl
 ![Material3](https://img.shields.io/badge/Material%203-6200EA?style=for-the-badge&logo=material-design&logoColor=white)
 ![SharedPreferences](https://img.shields.io/badge/SharedPreferences-9C27B0?style=for-the-badge&logo=android&logoColor=white)
 
----
 
 ### 🔌 Backend & APIs  
 ![Ktor](https://img.shields.io/badge/Ktor-3F51B5?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -43,54 +41,6 @@ Kotlin Mobile Developer | Crafting Elegant, Intuitive & High-Impact Android Appl
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## 🚀 Tech Stack
-
-### 🧠 Languages & Platforms
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E76F00?logo=openjdk&logoColor=white)
-
----
-
-### 📱 UI Frameworks & SDKs
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=android&logoColor=white)
-![KMP](https://img.shields.io/badge/KMM/KMP-5D4BE0?logo=kotlin&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-2D2D2D?logo=apple&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![Material3](https://img.shields.io/badge/Material%203-6200EA?logo=material-design&logoColor=white)
-![SharedPreferences](https://img.shields.io/badge/SharedPreferences-9C27B0?logo=android&logoColor=white)
-
----
-
-### 🔌 Backend & APIs
-![Ktor](https://img.shields.io/badge/Ktor-3F51B5?logo=kotlin&logoColor=white)
-![Retrofit](https://img.shields.io/badge/Retrofit-1976D2?logo=android&logoColor=white)
-![RoomDB](https://img.shields.io/badge/Room%20DB-A1887F?logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
-![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-00B8D4?logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 
 
 
