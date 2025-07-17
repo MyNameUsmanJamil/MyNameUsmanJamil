@@ -4,13 +4,7 @@
 
 Kotlin Mobile Developer | Crafting Elegant, Intuitive & High-Impact Android Applications
 
-🔧 I specialize in building scalable features from **UI to API**, following **Clean Architecture**, **MVVM**, and **modular design** principles.
-
-🚀 Passionate about performance, clean code, and delivering smooth user experiences across platforms.
-
-📫 Let's connect or collaborate — I'm always open to cool mobile projects and ideas!
-
-
+🔧 I specialize in crafting high-quality mobile applications using **Android, iOS, Hybrid technologies** to deliver seamless user experiences.
 
 ---
 
