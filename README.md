@@ -1,6 +1,12 @@
-### 👋 Hello, I'm Usman Jamil — Android Engineer
+<div align="center">
 
-I craft high-quality mobile apps using **native (Android)** technologies.
+## Welcome👋 I'm Usman Jamil
+
+Kotlin Mobile Developer | Crafting Elegant, Intuitive & High-Impact Android Applications
+
+---
+
+## Development Stack
 
 🔧 I specialize in building scalable features from **UI to API**, following **Clean Architecture**, **MVVM**, and **modular design** principles.
 
@@ -17,6 +23,9 @@ I craft high-quality mobile apps using **native (Android)** technologies.
   </a>
 </p>
 
+
+
+</div>
 
 
 
