@@ -11,7 +11,7 @@ Kotlin Mobile Developer | Crafting Elegant, Intuitive & High-Impact Android Appl
 <h2>🚀 Tech Stack</h2>
 
 <h3>🧠 Languages & Platforms</h3>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" height="55"/>
 <img src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white" height="35"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" height="35"/>
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="35"/>
