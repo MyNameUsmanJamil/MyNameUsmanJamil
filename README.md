@@ -38,30 +38,14 @@ Kotlin Mobile Developer | Crafting Elegant, Intuitive & High-Impact Android Appl
 ![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-00B8D4?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-
-
-
-
-
-
-## 📊 GitHub Stats
-![Usman's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=github_dark)
-
-
-
-## 🌟 Featured Projects
-- [📱 MyChatApp](https://github.com/your-username/MyChatApp): A real-time chat app using Firebase and Jetpack Compose  
-- [🛒 ShopEasy](https://github.com/your-username/ShopEasy): An eCommerce app with MVVM and Clean Architecture  
-- [📷 InstaClone](https://github.com/your-username/InstaClone): A basic Instagram-like app using Jetpack Compose and Room
-
-
+---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://yourportfolio.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usman-jamil-65a56a2b8)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uch10654321@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/osmanjamil65/)
+
 
 
 
